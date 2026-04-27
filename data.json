@@ -1,0 +1,27 @@
+[
+{
+    "message": "Login successful",
+    "users": [
+        {
+            "id": "ABC",
+            "password": "070908"
+        },
+        {
+            "id": "ACD",
+            "password": "030203"
+        },
+        {
+            "id": "AAK",
+            "password": "070305"
+        },
+        {
+            "id": "AMG",
+            "password": "090506"
+        },
+        {
+            "id": "AOP",
+            "password": "050201"
+        }
+    ]
+}
+]
